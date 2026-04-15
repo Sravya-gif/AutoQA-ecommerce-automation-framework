@@ -28,7 +28,7 @@ AutoQA-Pro is a Selenium-Java Automation Framework designed for advanced UI elem
 
 
 
-\## ▶️ How to Run
+\## How to Run
 
 
 
