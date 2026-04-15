@@ -1,6 +1,4 @@
-\#  Ecommerce-Automation-Framework
-
-
+\# AutoQA Ecommerce-Automation-Framework
 
 \##  Overview
 
