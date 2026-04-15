@@ -9,23 +9,23 @@ The framework automates key functionalities like user login, product search, add
 
 ## Tools & Technologies
 
-Java
-Selenium WebDriver
-TestNG
-Maven
-WebDriverManager
-Extent Reports and screenshots
-Apache POI (for Excel data)
+* Java
+* Selenium WebDriver
+* TestNG
+* Maven
+* WebDriverManager
+* Extent Reports and screenshots
+* Apache POI (for Excel data)
 
 ## Key Features
 
-Page Object Model (POM)
-Data-driven testing using Excel
-Screenshot capture on failure
-Extent report generation
-Config file usage
-FluentWait for dynamic elements
-TestNG for test execution
+* Page Object Model (POM)
+* Data-driven testing using Excel
+* Screenshot capture on failure
+* Extent report generation
+* Config file usage
+* FluentWait for dynamic elements
+* TestNG for test execution
 
 ## Project Structure
 ```
